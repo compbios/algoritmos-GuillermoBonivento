@@ -1,6 +1,6 @@
-**Algoritmo Calificaciones
+**Algoritmo Calificaciones**
 	
-  // Alumno 1
+  ## Alumno 1
 	
     Escribir 'Nota 1 es a'
 	  a <- 4
@@ -10,17 +10,17 @@
 	  Escribir 'Nota 3 es c'
 	  c <- 3
 	
-  // Notas ponderadas 
+  ### Notas ponderadas 
   
 	  pon1 <- 0.35
 	  pon2 <- 0.35
 	  pon3 <- 0.30
 	
-  // Ecuacion 
+  ### Ecuacion 
   
 	  Nf <- a*pon1+b*pon2+c*pon3
 	
-  // Nota final 
+  ### Nota final 
   
 	Escribir 'Nota final es ',Nf
   
